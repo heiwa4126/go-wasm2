@@ -54,3 +54,7 @@ tinygo build -target wasm -o main.wasm
 # または
 tinygo build -target wasm -o main.wasm -no-debug
 ```
+
+# TODO
+
+このままだと変化がないので、タイムスタンプとか表示してみる。
